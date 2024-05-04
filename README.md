@@ -2,4 +2,4 @@
 
 my leetcode solutions
 
-seperated by question type
+separated by question type
