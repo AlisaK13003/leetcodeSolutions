@@ -2,4 +2,4 @@
 
 my leetcode solutions
 
-seperated by coding language, but i mainly use javascript anyway
+seperated by programming languages, but i mainly use javascript anyway
